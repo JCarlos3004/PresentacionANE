@@ -10,7 +10,7 @@ body {
 	width:100%;
 	margin:0;
 
-	/*background:url(../images/road2.jpg) no-repeat;*/
+	/*background:url(images/road2.jpg) no-repeat;*/
 	background-size:cover;
 }
 .ie body {
@@ -52,7 +52,7 @@ code {
 	border-bottom:1px dotted #666;
 }
 small {
-	background:url(../images/alpha.png);
+	background:url(images/alpha.png);
 	background:rgba(0, 0, 0, 0.8) url();	
 	border:1px solid #111;
 	font-size:15px;
@@ -101,7 +101,7 @@ height:34px;
 display: inline-block;
 }
 .twitterIcon, .facebookIcon, .linkedInIcon, .pintrestIcon{
-background: url('../images/social-icons.png') -74px 0px;
+background: url('images/social-icons.png') -74px 0px;
 }
 .facebookIcon{
 background-position: 10px 0px;
@@ -208,7 +208,7 @@ text-align:center;
   border: 1px solid rgba(255, 255, 255, 0.76);
 }
 #overlay{
-background: rgba(0, 0, 0, 0.56) url(../images/overlays/01.png) top left repeat;
+background: rgba(0, 0, 0, 0.56) url(images/overlays/01.png) top left repeat;
 position: fixed;
 top: 0px;
 width: 100%;
